@@ -1,0 +1,12 @@
+.card_style{
+    padding: 5px;
+    border-radius: 30px;
+    opacity: 0.6;
+    line-height: 2rem;
+    font-size: large;
+}
+.imgZoom:hover {
+    -ms-transform: scale(2.5); /* IE 9 */
+    -webkit-transform: scale(2.5); /* Safari 3-8 */
+    transform: scale(2.5);
+  }
